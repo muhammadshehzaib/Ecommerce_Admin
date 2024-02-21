@@ -4,7 +4,7 @@ import { MongoDBAdapter } from "@auth/mongodb-adapter";
 
 import clientPromise from "@/lib/mongodb";
 
-const adminEmails = ["m.shehzaib.b@gmail.com"];
+const adminEmails = ["mmasoodjaved8@gmail.com"];
 
 export const authOptions = {
   secret: process.env.SECRET,
